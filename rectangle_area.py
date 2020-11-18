@@ -2,7 +2,7 @@
 
 # Created by Jonathan Pasco-Arnone
 # Created on November 2020
-# This program does calculates the area and perimiter of a rectangle
+# This program does calculates the area and perimeter of a rectangle
 
 def main():
     print("If a rectangle has the dimensions")
